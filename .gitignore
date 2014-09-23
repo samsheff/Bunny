@@ -4,3 +4,6 @@
 #vim artifacts
 *.swo
 *.swp
+
+# Finder artifacts
+.DS_Store
