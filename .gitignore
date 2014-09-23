@@ -1,0 +1,6 @@
+#crystal artifacts
+.crystal/
+
+#vim artifacts
+*.swo
+*.swp
